@@ -1,0 +1,20 @@
+2.Any functional requirement in further development ?
+Functional requirements usually define if/then behaviours and include calculations,
+data input.
+Data processing. The start of the analysis is raw data
+Predictive applications
+Risk analytics
+Decision management
+Text analytics
+Content analysis
+Social media analytics
+Statistical analytics
+
+3.How you idea is different and innovative form other ideas- a default comparison
+
+4.Any early stage innovation detected while developing the solution
+Innovative processes after phases are indispensable. 
+This is because they create structure and systematicity to avoid mistakes and to increase 
+the innovative performance. This ensures that all important steps are completed in a timely and correct manner. If there were no processes and phases, one would orientate without orientation constantly back and forth rather than focused on the goal.
+
+

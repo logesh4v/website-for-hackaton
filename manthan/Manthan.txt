@@ -1,0 +1,25 @@
+Step 1: Define the problem
+clear, concise, and measurable data must be taken
+checking whether Enough data is available in a usable format or not
+
+Step 2: Decide on an approach
+Anomaly detection: identifies data points that are not normal.
+Regression: gives a real-valued answer and is useful when looking for a number instead of a class or category.
+Clustering: answer questions about how data is organized by 
+seeking to separate out a data set into intuitive chunks.
+
+Step 3: Collect data
+With the problem clearly defined and a suitable approach selected,
+it’s time to collect data. All collected data should be organized in a 
+log along with collection dates and other helpful metadata.
+but "here already data set has been given"
+
+Step 4: Analyze data
+The next step after data collection and cleanup is data analysis. 
+At this stage, there’s a certain chance that the selected data 
+science approach won’t work.
+Step 5: Interpret results
+After data analysis, it’s finally time to interpret the results. 
+The most important thing to consider is whether the original problem has 
+been solved
+Conclusion of problem for given data set
